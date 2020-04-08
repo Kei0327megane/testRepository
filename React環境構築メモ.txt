@@ -1,0 +1,38 @@
+# node-js導入
+ - こちらのqiitaを参考
+https://qiita.com/EZ_Denta/items/9e6a47f330b5a01806ae
+```
+
+-> % brew -v
+-> % brew update 
+-> % brew install nodejs
+-> % node -v
+v13.12.0
+-> % npm -v
+6.14.4
+
+```
+
+# Create React App のインストール
+### 簡単にReact環境作ってくれるらしい
+```
+npx create-react-app my-app
+cd my-app
+npm start
+```
+
+# Visual Stadio Codeのインストール
+```
+-> % brew cask install visual-studio-code
+-> % code -v
+1.43.2
+0ba0ca52957102ca3527cf479571617f0de6ed50
+x64
+```
+
+# 日本語にする方法はこれを参照
+https://qiita.com/ntkgcj/items/e77331932c7983dea830
+
+
+# デバッグ方法はこちらを参照
+https://qiita.com/iewori/items/c28a2a415bb3553157c0
