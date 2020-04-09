@@ -2,11 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
-import Todo from './todo';
+//import Todo from './todo';
+import Game from './tutorial';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <Todo />,
+  <Game />,
   document.getElementById('root')
 );
 
